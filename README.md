@@ -1,6 +1,6 @@
 # React Course Projects
 
-- [ReactJS Course Projects](#reactjs-course-projects)
+- [React Course Projects](#react-course-projects)
   - [📚 Descriptions](#-descriptions)
     - [Project #1 | 03-counter-app-vite](#project-1--03-counter-app-vite)
       - [Description](#description)
